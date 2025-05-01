@@ -1,0 +1,36 @@
+  452  aws configure
+  453  aws configure
+  454  https://awscli.amazonaws.com/AWSCLIV2-version.number.msi
+  455  aws configure
+  456  sqlite3 cloud_costs.db
+  457  sqlite3 cloud_costs.db
+  458  mkdir incident-management-system
+  459  cd incident-management-system
+  460  python3 -m venv venv
+  461  python3
+  462  python3 -m venv venv
+  463  python3 -m venv venv
+  464  source venv/bin/activate
+  465  python3 -m venv venv
+  466  source venv/bin/activate
+  467  source venv\Scripts\activate
+  468  source venv\Scripts\activate
+  469  pip install Flask Flask-SQLAlchemy Flask-Mail
+  470  mkdir app
+  471  touch app/__init__.py app/models.py app/routes.py
+  472  touch run.py
+  473  python
+  474  pip freeze > requirements.txt
+  475  pip freeze > requirements.txt
+  476  pip install -r requirements.txt
+  477  docker --version
+  478  vi Dockerfile
+  479  vi .dockerignore
+  480  docker build -t incident-management-system
+  481  docker buildx build -t incident-management-system
+  482  docker buildx build -t incident-management-system .
+  483  docker context ls
+  484  docker buildx build -t incident-management-system .
+  485  docker run -p 5000:5000 incident-management-system
+  486  app.run(debug=True, host="0.0.0.0")
+  487  history
